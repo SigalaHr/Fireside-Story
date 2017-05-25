@@ -1,7 +1,13 @@
 body {
+<<<<<<< HEAD
   color: pink;
   background-color: blue;
+=======
+  color: firebrick;
+  background-color: hotpink;
+>>>>>>> 8ec69103879be5191fc5640e2bc216145ed5aaf7
   font-family: 'Sacramento', cursive;
-  font-size: 150%;
+  font-size: 200%;
   margin: 5em 25%;
+
 }
