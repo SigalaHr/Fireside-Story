@@ -1,7 +1,8 @@
 body {
-  color: white;
-  background-color: black;
+  color: firebrick;
+  background-color: hotpink;
   font-family: 'Sacramento', cursive;
-  font-size: 150%;
+  font-size: 200%;
   margin: 5em 25%;
+
 }
